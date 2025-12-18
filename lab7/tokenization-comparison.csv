@@ -1,0 +1,3 @@
+Tokenizer,Tokenizer info,Vocab size,Max len,Accuracy,Precision,Recall,F1
+word_keras,"keras.Tokenizer(num_words=..., oov_token=...)",20000,200,0.9487894736842105,0.946860916046536,0.9509473684210527,0.9488997426605745
+sentencepiece_hf,AutoTokenizer.from_pretrained('albert-base-v2'),30001,200,0.9412894736842106,0.9278897677979077,0.9569473684210527,0.942194584790776
